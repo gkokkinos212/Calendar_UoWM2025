@@ -67,11 +67,11 @@ form .input-box {
     border: 2px solid grey;
     border-radius: 70px;
     font-size: 20px;
-    color: #000;
+    color: #e9ca7b;
 }
 
 .input-box input::placeholder {
-    color: #000;
+    color: #cfaa4b
 }
 
 .input-box box-icon {
